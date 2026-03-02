@@ -1,0 +1,8 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="MapSolution.MainWindow"
+        Title="USA Map - State Boundaries"
+        Width="1600" Height="1000"
+        Background="White">
+    <Image x:Name="MapImage" Stretch="Uniform"/>
+</Window>
